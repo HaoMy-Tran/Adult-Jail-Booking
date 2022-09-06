@@ -5,6 +5,6 @@ By learning about this dataset, we will have insights from the law enforcement o
 ## License
 [Public Domain](https://dajd-jms.powerappsportals.us/)
 ## Use of tool
-Python:
+Python:<br>
 Pandas and Numpy for data wrangling. <br>
 Matplotlib for data visualization.
